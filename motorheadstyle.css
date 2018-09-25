@@ -1,0 +1,17 @@
+h1 {color: #4253f4;}
+h2 {color: #0ddb74;}
+
+.text-underline {
+text-decoration-line: underline;
+text-decoration-style: wavy;
+text-decoration-color: #435b4f;
+}
+
+.text-overline {
+text-decoration-line: overline;
+text-decoration-style: solid;
+text-decoration-color: #435b4f;
+}
+
+
+.text-color {color: #ff42c0;}
