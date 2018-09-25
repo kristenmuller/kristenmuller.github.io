@@ -1,35 +1,41 @@
-h1 {color: #4253f4;}
-h2 {color: #cd4985;}
+h1 {
+    color: #4253f4;
+}
+
+h2 {
+    color: #cd4985;
+}
+
 h3 {
     color: black;
     font-family: Arial, Verdana, sans-serif;
 }
 
 .text-underline {
-text-decoration-line: underline;
-text-decoration-style: wavy;
-text-decoration-color: #435b4f;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #435b4f;
 }
 
 .text-overline {
-text-decoration-line: overline;
-text-decoration-style: solid;
-text-decoration-color: #435b4f;
+    text-decoration-line: overline;
+    text-decoration-style: solid;
+    text-decoration-color: #435b4f;
 }
 
-.text-color {color: #ff42c0;
+.text-color {
+    color: #ff42c0;
 }
 
 .paragraph {
-font-family: Arial, Verdana, sans-serif;
-background-color: rgb(252, 245, 237);
-border: 1px double black;
+    font-family: Arial, Verdana, sans-serif;
+    /* background-color: rgb(252, 245, 237);
+    border: 1px double black; */
 }
 
 div {
     border:2px dotted DodgerBlue;
     font-size: relative;
-    
 }
 
 div.one {
